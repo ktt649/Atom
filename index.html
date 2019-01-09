@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Atom</title>
+  <link rel=stylesheet type="text/css" href="./styles/style-main.css">
+  <script src="./scripts/menu-script.js"></script>
+  <script src="./scripts/catalog.js"></script>
+</head>  
+<body onload="init()">
+	<div id="page-wrap">
+		<nav>
+			<ul>
+  				<li id="icon"><a href="index.html"><img src="./images/atom-logo.png" alt="logo"></a></li>
+				<a href="checkout.html"<li id="cart"></li></a>
+  				<li class="menu-item"><a href="contact.html">Contact</a></li>
+  				<li class="menu-item"><a href="store.html">Store</a></li>
+  				<li class="menu-item"><a href="about.html">About</a></li>
+  				<li id="underline"></li>
+			</ul>
+		</nav>
+	
+		<div class="header-banner">
+      		  <div class="banner-text-heading">New fall devices have arrived.</div>
+		      <div class="banner-text"> Teach, learn, and create with Strawberry Pi.</div> <!-- end of .banner-text -->	
+      		  <button onclick= "window.location.href='store.html'"id="shop-button" type="button">Start Shopping'</button>
+   		</div> <!-- end of .header-banner -->
+   	
+    <!--div id="underlineLoc">icon</div-->
+	<div class="feature">
+   		<div class="feature-text">Most Popular Products</div>
+		  <script src="./scripts/popularItemsBuilder.js"></script> 
+  	</div> <!-- end of feature -->
+	<div class=clearboth></div>
+
+ 	<div class="footer-banner">
+   		<div class="footer-banner-text-heading">You could say it's our jam.</div>
+      	<div class="footer-banner-text"> Learn more about why we do what we do. </p> </div> <!-- end of .banner-text -->	
+   	</div> <!-- end of .footer-banner -->	
+   		
+   		<div class="footer"> 
+   			<ul class="footer-list">
+				<li id="follow">Follow Us:</li>
+				<li class="social"><a href="#facebook"><img src="images/icons/icon_facebook.png" alt="facebook"></a>
+				<li class="social"><a href="#twitter"><img src="images/icons/icon_twitter.png" alt="twitter"></a>
+				<li class="social"><a href="#google"><img src="images/icons/icon_google.png" alt="google"></a>
+				<li class="footer-menu-item"><a href="contact.html">Contact</a></a>
+				<li class="footer-menu-item"><a href="store.html">Store</a>
+				<li class="footer-menu-item"><a href="about.html">About</a>
+			</ul>
+			<p>&#x40; 2016 Atom Ltd. All Rights Reserved.
+   		
+   		</div> <!-- end of .footer -->
+	
+	</div> <!-- end #page-wrap -->
+	
+</body>
+</html>

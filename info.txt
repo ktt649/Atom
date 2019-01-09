@@ -1,0 +1,106 @@
+         { "Popular Items": [
+               {
+                   "itemImageSrc" : "../images/Store_Products/Strawberry_Pi_3_Model_B copy.jpg",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi 3 Model B </p>",
+                   "itemPrice" : "<p>$49.95</p>",
+              },
+               {
+                   "itemImageSrc" : "../images/Store_Products/Strawberry_Pi_Zero copy.jpg",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Zero </p>",
+                   "itemPrice" : "<p>$29.95</p>",
+               },
+               {
+                   "itemImageSrc" : "../images/Store_Products/placeholder.png",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Case </p>",
+                   "itemPrice" : "<p>10.95</p>",
+               },
+               {
+                   "itemImageSrc" : "../images/Store_Products/placeholder.png",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Extension Kit </p>",
+                   "itemPrice" : "<p>$149.95</p>",
+                   "itemPopular" : "false"
+               }
+          ],
+		 "Strawberry Pi": [
+               {
+                   "itemImageSrc" : "../images/Store_Products/Strawberry_Pi_3_Model_B copy.jpg",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi 3 Model B </p>",
+                   "itemPrice" : "<p>$49.95</p>",
+               },
+               {
+                   "itemImageSrc" : "../images/Store_Products/Strawberry_Pi_Zero copy.jpg",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Zero </p>",
+                   "itemPrice" : "<p>$29.95</p>",
+               },
+               {
+                   "itemImageSrc" : "../images/Store_Products/placeholder.png",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Case </p>",
+                   "itemPrice" : "<p>10.95</p>",
+              },
+               {
+                   "itemImageSrc" : "../images/Store_Products/placeholder.png",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Extension Kit </p>",
+                   "itemPrice" : "<p>$149.95</p>",
+               }
+          ],
+   		 "Strawberry Pi Acessories": [
+          {
+               "itemImageSrc" : "../images/Store_Products/Strawberry_Pi_3_Model_B copy.jpg",
+                "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi 3 Model B </p>",
+                   "itemPrice" : "<p>$49.95</p>",
+               },
+               {
+                   "itemImageSrc" : "../images/Store_Products/Strawberry_Pi_Zero copy.jpg",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Zero </p>",
+                   "itemPrice" : "<p>$29.95</p>",
+               },
+               {
+                   "itemImageSrc" : "../images/Store_Products/placeholder.png",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Case </p>",
+                   "itemPrice" : "<p>10.95</p>",
+              },
+               {
+                   "itemImageSrc" : "../images/Store_Products/placeholder.png",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Extension Kit </p>",
+                   "itemPrice" : "<p>$149.95</p>",
+               }
+          ],
+      "Industrial Compute Model": [
+          {
+               "itemImageSrc" : "../images/Store_Products/Strawberry_Pi_3_Model_B copy.jpg",
+                "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi 3 Model B </p>",
+                   "itemPrice" : "<p>$49.95</p>",
+               },
+               {
+                   "itemImageSrc" : "../images/Store_Products/Strawberry_Pi_Zero copy.jpg",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Zero </p>",
+                   "itemPrice" : "<p>$29.95</p>",
+               },
+               {
+                   "itemImageSrc" : "../images/Store_Products/placeholder.png",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Case </p>",
+                   "itemPrice" : "<p>10.95</p>",
+              },
+               {
+                   "itemImageSrc" : "../images/Store_Products/placeholder.png",
+                   "itemImageAlt" : "placeholder",
+                   "itemDescription" : "<p> Strawberry Pi Extension Kit </p>",
+                   "itemPrice" : "<p>$149.95</p>",
+               }
+          ]
+	 };
